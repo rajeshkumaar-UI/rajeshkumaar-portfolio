@@ -26,6 +26,12 @@ export default function Header() {
                         <a href="#" className="text-sm/6 font-semibold text-gray-900">Marketplace</a>
                         <a href="#" className="text-sm/6 font-semibold text-gray-900">Company</a>
                     </div>
+                    <div className="hidden lg:flex lg:gap-x-12">
+                        <a href="#" className="text-sm/6 font-semibold text-gray-900">Product</a>
+                        <a href="#" className="text-sm/6 font-semibold text-gray-900">Features</a>
+                        <a href="#" className="text-sm/6 font-semibold text-gray-900">Marketplace</a>
+                        <a href="#" className="text-sm/6 font-semibold text-gray-900">Company</a>
+                    </div>
                     <div className="hidden lg:flex lg:flex-1 lg:justify-end">
                         <a href="#" className="text-sm/6 font-semibold text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a>
                     </div>
